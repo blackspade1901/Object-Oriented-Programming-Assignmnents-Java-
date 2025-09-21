@@ -1,0 +1,1 @@
+Kindly implement all the different types of Inheritance (Single, Multiple, Multilevel, Hybrid, Hierarchical) using JAVA for the theme REAL ESTATE domain. You can use your knowledge and imagination to develop different classes that may qualify as different types of Inheritance. Implement a menu-driven program to navigate through all these different types of Inheritance. 
