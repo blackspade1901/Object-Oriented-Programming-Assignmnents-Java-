@@ -1,0 +1,18 @@
+As a Cyber Security Expert in a multinational organization, I am tasked with monitoring multiple computer systems to ensure their integrity and security. The objective is to design a software solution that can 
+effectively manage and monitor these systems by modeling various organizational components and their interactions using Object-Oriented Programming (OOP) 
+principles.
+The core functionalities of the solution must include:
+
+1. System and Stakeholder Identification: Accurately identify and categorize different types of employee computer systems along with their specific attributes, and model various stakeholders 
+(e.g., System Administrators, CEOs) as distinct classes.
+
+2. Access Control and Functionality: Implement a system that demonstrates access control and varying levels of authority among stakeholders. This will involve using inheritance to allow a System Administrator to 
+monitor employee activity, while a CEO has the enhanced ability to monitor both employees and system administrators.
+
+3. Polymorphism and Method Behavior: Apply polymorphism to enable different stakeholders to perform the same actions, such as registering new IP addresses, while using method overriding to tailor specific 
+behaviors to each stakeholder type (e.g., a CEO’s monitoring capabilities are different from a System Administrator’s).
+
+4. Code Structure and Control Flow: Utilize constructors and constructor overloading for flexible object creation. The system should also incorporate a switch-case structure to manage various operations, 
+including registering new IP addresses, displaying system information, and deleting unused systems.
+
+5. Access Modifiers: Correctly apply public, private, and protected access modifiers to ensure proper encapsulation and data protection within the class hierarchy.
